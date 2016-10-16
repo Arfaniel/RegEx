@@ -1,0 +1,6 @@
+c:\users\vivi\documents\visual studio 2015\Projects\regExForPhones\regExForPhones\bin\Debug\regExForPhones.exe.config
+c:\users\vivi\documents\visual studio 2015\Projects\regExForPhones\regExForPhones\bin\Debug\regExForPhones.exe
+c:\users\vivi\documents\visual studio 2015\Projects\regExForPhones\regExForPhones\bin\Debug\regExForPhones.pdb
+c:\users\vivi\documents\visual studio 2015\Projects\regExForPhones\regExForPhones\obj\Debug\regExForPhones.csprojResolveAssemblyReference.cache
+c:\users\vivi\documents\visual studio 2015\Projects\regExForPhones\regExForPhones\obj\Debug\regExForPhones.exe
+c:\users\vivi\documents\visual studio 2015\Projects\regExForPhones\regExForPhones\obj\Debug\regExForPhones.pdb
